@@ -1,0 +1,42 @@
+ nav a{
+    text-decoration:none;
+    padding: 5px;
+    color: aliceblue;
+ }
+body{
+   background-color:rgb(255, 255, 255);
+}
+
+.ss
+{
+   border-right: 1px solid black;
+}
+th,td{
+   border:1px solid black;
+   width: 8rem;
+}
+.padd 
+{
+   font-weight: bold;
+}
+.ss{
+   overflow: auto;
+   height:350px !important;
+   border:none;
+}
+.mx
+{
+   margin-left: auto ;
+   margin-right: auto ;
+}
+.dd{
+overflow: hidden;
+}
+.margins
+{
+   margin: 10px;
+}
+
+.align-right{
+   text-align: right;
+}
